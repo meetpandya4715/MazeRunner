@@ -1,0 +1,12 @@
+F:\ADT\Projects\ADT_Project_Final\ADT_Project_Final\bin\Debug\ADT_Project_Final.exe.config
+F:\ADT\Projects\ADT_Project_Final\ADT_Project_Final\bin\Debug\ADT_Project_Final.exe
+F:\ADT\Projects\ADT_Project_Final\ADT_Project_Final\bin\Debug\ADT_Project_Final.pdb
+F:\ADT\Projects\ADT_Project_Final\ADT_Project_Final\obj\Debug\ADT_Project_Final.Main.resources
+F:\ADT\Projects\ADT_Project_Final\ADT_Project_Final\obj\Debug\ADT_Project_Final.Properties.Resources.resources
+F:\ADT\Projects\ADT_Project_Final\ADT_Project_Final\obj\Debug\ADT_Project_Final.csproj.GenerateResource.Cache
+F:\ADT\Projects\ADT_Project_Final\ADT_Project_Final\obj\Debug\ADT_Project_Final.exe
+F:\ADT\Projects\ADT_Project_Final\ADT_Project_Final\obj\Debug\ADT_Project_Final.pdb
+F:\ADT\Projects\ADT_Project_Final\ADT_Project_Final\obj\Debug\ADT_Project_Final.csprojResolveAssemblyReference.cache
+F:\ADT\Projects\ADT_Project_Final\ADT_Project_Final\obj\Debug\ADT_Project_Final.level1.resources
+F:\ADT\Projects\ADT_Project_Final\ADT_Project_Final\obj\Debug\ADT_Project_Final.LevelComplete.resources
+F:\ADT\Projects\ADT_Project_Final\ADT_Project_Final\obj\Debug\ADT_Project_Final.level2.resources
